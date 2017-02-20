@@ -1,0 +1,8 @@
+*.pdb
+*.idb
+Hex Game/Debug/unittest.obj
+*.tlog
+*.log
+Hex Game/Debug/Hex 2.ilk
+*.obj
+Hex Game/Hex 2.vcxproj.user
